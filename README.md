@@ -1,6 +1,6 @@
 # CPA Manager Plus + CLIProxyAPI — subscription-to-API proxy with a management and observability panel (MIT). Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/PENDING)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/IKLUsa)
 
 [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) turns your AI subscriptions (Claude, Codex/ChatGPT, Gemini, Kimi, xAI, …) and API keys into one OpenAI/Claude/Gemini-compatible API. [CPA Manager Plus](https://github.com/seakee/CPA-Manager-Plus) (CPAMP) is the full-mode management panel for it: providers, OAuth accounts, requests, failures, cost, quota and account health. This template runs both, already wired together.
 
